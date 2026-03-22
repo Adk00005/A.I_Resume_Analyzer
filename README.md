@@ -1,6 +1,6 @@
 # A.I_Resume_Analyzer
 Download the code file manually or via git
-"git clone https://github.com/Adity00005/A.I_Resume_Analyzer.git"
+"git clone https://github.com/Adk00005/A.I_Resume_Analyzer.git"
 Create a virtual environment and activate it (recommended)
 
 Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
